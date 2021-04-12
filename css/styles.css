@@ -1,0 +1,178 @@
+    body{
+      font-family: 'Nunito', sans-serif;
+    }
+
+    h1{
+      text-align: center;
+      font-size: 3.5rem;
+      line-height: 1.5;
+      font-family: 'Montserrat', sans-serif;
+      padding-bottom: 20px;
+
+    }
+
+    h2{
+      padding-top: 20px;
+      border-bottom-width: 20px;
+      padding-bottom: 20px;
+      font-family: 'Montserrat', sans-serif;
+    }
+
+    .container-fluid{
+      padding: 7% 15% 7%;
+    }
+
+
+    /*HEADER SECTION*/
+
+    #title{
+      text-align: center;
+    }
+
+    .bg-dark {
+      background-color: #333333!important;
+    }
+
+    .brand-logo{
+      width: 150px;
+      height: 45px;
+    }
+
+    .media-links{
+      padding-top: 12px;
+
+    }
+
+    .nav-links{
+      padding-right: 70px;
+
+    }
+
+    .img_link{
+      width: 20px;
+      height: 20px;
+    }
+
+    .navbar{
+      padding: 20px 15% 20px;
+
+    }
+
+    .header{
+      padding-top: 25px;
+      padding-bottom: 25px;
+      background-color: #333333 ;
+
+    }
+    .navbar-brand{
+      font-family: 'Nunito', sans-serif;
+      font-size: 2.5rem;
+      font-weight: bold;
+    }
+
+    .nav-item{
+      padding: 0 18px;
+    }
+
+    .nav-link{
+      font-size: 1.2rem;
+
+    }
+
+    /* Banner Section */
+
+    .banner{
+      padding: 0;
+    }
+
+    .photo_big{
+      max-width: 100%;
+      height: auto;
+    }
+
+    /* NEWS SECTION */
+
+    .news{
+      color: #333333;
+    }
+
+    .news-img{
+      width: 250px;
+    }
+
+    .car-button{
+      color: #333333;
+    }
+
+    .news-text{
+      text-align: center;
+    }
+
+    .news-button{
+      color:#333333;
+    }
+
+
+    /* MEDIA SECTION */
+    .medias{
+      background-color: #333333 ;
+      color: white;
+      text-align: center;
+    }
+
+    .spotify{
+      padding-top: 30px;
+    }
+
+    .reproductor{
+      border-radius: 3px;
+    }
+
+    .youtube{
+      padding-top:50px;
+
+    }
+    .repro_youtube{
+      width: 800px;
+      height: 500px;
+    }
+
+
+
+
+
+    /* ABOUT SECTION */
+
+    .about{
+      color: #333333 ;
+      text-align: center;
+    }
+
+    .about-img{
+      width: 300px;
+      border-radius: 15px;
+      padding-top: 20px;
+      padding-bottom: 50px;
+    }
+
+
+    /* CONTACT SECTION */
+
+    .contact{
+      text-align: center;
+      background-color: #333333;
+      color: #fff;
+    }
+
+    .contact-links{
+      padding-top: 20px;
+      padding-bottom: 50px;
+    }
+
+    .about-link{
+      width: 30px;
+    }
+
+    .contact-col{
+      padding-left: 0;
+    }
